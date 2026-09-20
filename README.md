@@ -1,4 +1,4 @@
-# Hey, I'm David 👋
+# Hey, I'm David :D
 
 🇵🇹 **IT Student from Portugal**
 
