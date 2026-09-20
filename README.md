@@ -6,7 +6,7 @@ I'm currently studying **IT and Systems** and working on improving my skills in 
 
 I enjoy learning by building things, experimenting with new technologies and continuously improving my programming skills.
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 - HTML
 - CSS
@@ -21,7 +21,7 @@ I enjoy learning by building things, experimenting with new technologies and con
 - Git
 - GitHub
 
-## 📖 Currently Learning
+## Currently Learning
 
 - Software Development
 - Web Development
@@ -30,13 +30,13 @@ I enjoy learning by building things, experimenting with new technologies and con
 - Game Development
 - Git & GitHub
 
-## 🎯 Goals
+## Goals
 
 - Improve my programming fundamentals
 - Build more complete and useful applications
 - Learn new technologies
 - Keep growing as a developer
 
-## 📫 Get in Touch
+## Get in Touch
 
 Feel free to explore my profile and follow my journey.
